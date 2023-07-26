@@ -172,10 +172,11 @@ function Header() {
               </div>
             </li>
             <li className="nav-item">
+              {/*  eslint-disable-next-line jsx-a11y/anchor-is-valid */}
               <a
                 className="nav-link"
                 data-widget="fullscreen"
-                href="/"
+                href="#"
                 role="button"
               >
                 <i className="fas fa-expand-arrows-alt" />
