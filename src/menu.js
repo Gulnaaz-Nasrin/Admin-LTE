@@ -458,7 +458,7 @@ function Menu() {
                     </li>
                     <li className="nav-item">
                       <a
-                        href="pages/examples/contacts.html"
+                        href="/themes/v3/pages/examples/contacts.html"
                         className="nav-link"
                       >
                         <i className="far fa-circle nav-icon" />
@@ -473,7 +473,7 @@ function Menu() {
                     </li>
                     <li className="nav-item">
                       <a
-                        href="pages/examples/contact-us.html"
+                        href="/themes/v3/pages/examples/contact-us.html"
                         className="nav-link"
                       >
                         <i className="far fa-circle nav-icon" />
